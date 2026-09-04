@@ -1,0 +1,41 @@
+body {
+	background-color: #5fd7c7; 
+}
+
+
+h1 {
+	color: #253342; 
+	font-family: arial; 
+	text-align: center; 
+    font-size: 35px;
+}
+
+h2 {
+    color: #253342; 
+	font-family: arial; 
+	text-align: center; 
+    font-size: 50px;
+}
+
+p
+{
+	font-family: arial; 
+	color: #18012b; 
+	font-size: 15px; 
+	letter-spacing: 3px; 
+	text-align: center; 
+}
+
+h5 {
+	color: #253342;
+	font-family: arial;
+	text-align: center; 
+}
+
+#bild1 {
+    display: block;
+    margin: auto;
+    width: 600px; 
+}
+
+
